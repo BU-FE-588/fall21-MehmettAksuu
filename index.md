@@ -15,7 +15,7 @@
 #### Several homeworks will be loaded soon..
 
 ### Homework 1-2
-* [FE588: Homework 1 and 2](https://github.com/BU-FE-588/fall21-MehmettAksuu/blob/4c0b2561256930ee9cac9c2ec0f0300b8b944634/Homework%201-2.ipynb)
+* [FE588: Homework 1 and 2](hwfiles/Homework%201-2.html)
 
 
 ###### Contact
