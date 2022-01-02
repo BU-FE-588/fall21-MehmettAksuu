@@ -19,7 +19,7 @@
 * [FE588: Homework 1 and 2](https://github.com/BU-FE-588/fall21-MehmettAksuu/blob/4c0b2561256930ee9cac9c2ec0f0300b8b944634/Homework%201-2.ipynb)
 
 ### Homework 3-4
-* [FE588: Homework 3 and 4](https://github.com/BU-FE-588/fall21-MehmettAksuu/edit/gh-pages/Homework3-4.ipynb)
+* [FE588: Homework 3 and 4](https://github.com/BU-FE-588/fall21-MehmettAksuu/blob/76b85920442b2691f142e94479f2704fa64bc2b6/Homework3-4.ipynb)
 
 ###### Contact
 mehmet.aksu@boun.edu.tr
