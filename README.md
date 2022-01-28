@@ -24,5 +24,8 @@
 ### Homework 5
 * [FE588: Homework 5](https://github.com/BU-FE-588/fall21-MehmettAksuu/blob/e4c2c3ce4021afe7d280705838493c8ca21e607e/Homework5.ipynb)
 
+### Optional Assignment
+* [Project](https://github.com/BU-FE-588/fall21-MehmettAksuu/blob/e67dbad1ce3a33a03f6b054bdbc08c68d2e38bf1/optional_assigment.ipynb)
+
 ###### Contact
 mehmet.aksu@boun.edu.tr
